@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# YOLO runs
+runs/
+
+# Datasets
+data/
+yolo_dataset/
+
+# Model Weights
+*.pt
+
+# Videos
+*.mp4
+*.avi
+
+# Logs
+*.log
