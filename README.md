@@ -202,7 +202,7 @@ Vishwakarma University, Pune
 
 GitHub: https://github.com/omdangi2007
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: *https://www.linkedin.com/in/omdangi250107/*
 
 ---
 
